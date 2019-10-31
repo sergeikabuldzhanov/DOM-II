@@ -13,24 +13,30 @@ body {
   width: 100px;
   height: 100px;
   margin: 10px;
+  position: absolute;
 }
 
 .block--red {
   background-color: red;
+  top: 0;
 }
 
 .block--blue {
   background-color: blue;
+  top: 110px;
 }
 
 .block--green {
   background-color: green;
+  top: 220px;
 }
 
 .block--pink {
   background-color: pink;
+  top: 330px;
 }
 
 .block--gray {
   background-color: gray;
+  top: 440px;
 }
